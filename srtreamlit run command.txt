@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Rehan\Downloads\IDS PROJECT(077,057)\IDS PROJECT(077,057)\multiple disease pred.py"
